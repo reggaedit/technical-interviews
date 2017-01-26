@@ -1,4 +1,3 @@
-# Guide to Technical Interviews
 
 ### Algorithms and Data Structures (Practice sites)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/) ([Practice](http://www.practice.geeksforgeeks.org/))
